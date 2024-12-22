@@ -55,6 +55,8 @@
 - **Scene/**: Папка для сцени.
 
 ## Демо
+Gerasymchuk Oleksandr
+CS-31
 
 https://drive.google.com/file/d/1UNdXGHB9JCnmcfCvMKEryz2aV6H9v_eb/view?usp=share_link
 
